@@ -1,11 +1,19 @@
-The Ultimate ESP32 DISPLAYS\n
-Basic Details\n
-Team Name: DeadPixels\n
-Team Members\n
-Team Lead: kurias tenson - TocH\n
+The Ultimate ESP32 DISPLAYS  
 
 
-Member 2: sreehari nandanan - TocH\n
+Basic Details
+
+
+Team Name: DeadPixels
+
+
+Team Members
+
+
+Team Lead: kurias tenson - TocH
+
+
+Member 2: sreehari nandanan - TocH
 
 
 Project Description
