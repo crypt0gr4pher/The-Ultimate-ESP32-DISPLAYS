@@ -49,8 +49,6 @@ Introducing RoastBot - a sophisticated ESP32 system that displays 13 different m
 
 ---
 
-## **Implementation**  
-
 ### **Installation**  
 
 # Install required libraries in Arduino IDE:
