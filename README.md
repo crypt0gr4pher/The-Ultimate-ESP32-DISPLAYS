@@ -88,22 +88,24 @@ Screenshots (Add at least 3)
 <img width="1000" height="1000" alt="OLED Display Animation 3" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/WhatsApp%20Image%202025-08-15%20at%2005.52.15_1577f9fa.jpg" />
 
 Diagrams
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/generated-image.png
+<img width="1000" height="1000" alt="System Diagram" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/generated-image.png" />
 
 Schematic & Circuit
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/image.png
+<img width="1000" height="1000" alt="Circuit Schematic" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/image.png" />
 
 
 Build Photos
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0022.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0021.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0020.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0019.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0018.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0017.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0016.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0015.jpg
-https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0014.jpg
+<!-- Build Photos -->
+<img width="1000" height="1000" alt="Build Setup 1" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0022.jpg" />
+<img width="1000" height="1000" alt="Build Setup 2" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0021.jpg" />
+<img width="1000" height="1000" alt="Circuit Closeup 1" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0020.jpg" />
+<img width="1000" height="1000" alt="Circuit Closeup 2" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0019.jpg" />
+<img width="1000" height="1000" alt="Display Working 1" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0018.jpg" />
+<img width="1000" height="1000" alt="Display Working 2" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0017.jpg" />
+<img width="1000" height="1000" alt="Full Assembly 1" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0016.jpg" />
+<img width="1000" height="1000" alt="Full Assembly 2" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0015.jpg" />
+<img width="1000" height="1000" alt="Component Layout" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/IMG-20250815-WA0014.jpg" />
+<img width="1000" height="1000" alt="ESP32 Dual Display Setup" src="https://github.com/crypt0gr4pher/The-Ultimate-ESP32-DISPLAYS/blob/main/WhatsApp%20Image%202025-08-15%20at%2007.25.28_fe6285f2.jpg" />
 
 Project Demo
 Video
