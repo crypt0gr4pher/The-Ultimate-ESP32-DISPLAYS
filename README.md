@@ -49,8 +49,7 @@ Introducing RoastBot - a sophisticated ESP32 system that displays 13 different m
 
 ---
 
-### **Installation**  
-
+### **Installation** 
 # Install required libraries in Arduino IDE:
 # 1. U8g2lib by oliver
 # 2. ArduinoJson by Benoit Blanchon
@@ -60,12 +59,13 @@ Introducing RoastBot - a sophisticated ESP32 system that displays 13 different m
 # OLED: VCC->3.3V, GND->GND, SCL->GPIO22, SDA->GPIO21
 # LCD: VCC->5V, GND->GND, SCL->GPIO22, SDA->GPIO21 (shared I2C)
 
+
 Run
-bash
 # 1. Upload the code to ESP32
 # 2. Connect to WiFi network "ESP" with password "sreehari"
 # 3. Access web interface via ESP32's IP address
 # 4. Control animations and settings through browser
+
 
 Project Documentation
 Screenshots (Add at least 3)
